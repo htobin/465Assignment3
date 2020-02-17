@@ -59,6 +59,13 @@
     display: none;
 }
 
+#questionIcon {
+    margin-left: 5px;
+    margin-bottom: 8px;
+}
+
+
+
 @media only screen and (max-width: 700px) {
     .ui.fixed.menu {
         display: none !important;
